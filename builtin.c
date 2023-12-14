@@ -1,6 +1,7 @@
 #include "main.h"
 /**
  * _exit_command - function closes shel
+ * @arg: pointer argument.
  * @lineptr: input
  * @_exit:  exit
  * Return: None
