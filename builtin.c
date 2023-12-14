@@ -1,4 +1,4 @@
-#include "main.h"
+#include "shell.h"
 /**
  * _exit_command - function closes shel
  * @arg: pointer argument.
