@@ -1,4 +1,4 @@
-#include "main.h"
+#include "shell.h"
 /**
  * _fork_func -  create a fork
  *@arg:  path
