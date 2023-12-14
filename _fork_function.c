@@ -1,6 +1,6 @@
 #include "shell.h"
 /**
- * _fork_func -  create a fork
+ * _fork_fun -  create a fork
  *@arg:  path
  *@av: name of our program
  *@env: env
